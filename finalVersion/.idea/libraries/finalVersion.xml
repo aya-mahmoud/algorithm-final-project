@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="finalVersion">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/finalVersion_jar/finalVersion.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
