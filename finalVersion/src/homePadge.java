@@ -110,11 +110,11 @@ public class homePadge extends javax.swing.JFrame {
         jLabel13.setForeground(new java.awt.Color(204, 204, 0));
         jLabel13.setText("AbdALLAH Eltantawi ");
 
-        jLabel4.setFont(new java.awt.Font("Tahoma", 0, 48)); // NOI18N
-        jLabel4.setForeground(new java.awt.Color(51, 0, 255));
+        jLabel4.setFont(new java.awt.Font("Yu Gothic UI Semibold", 0, 38)); // NOI18N
+        jLabel4.setForeground(new java.awt.Color(9, 98, 240));
         jLabel4.setText("Graph ");
 
-        jLabel14.setFont(new java.awt.Font("Tahoma", 0, 48)); // NOI18N
+        jLabel14.setFont(new java.awt.Font("Yu Gothic UI Semibold", 0, 36)); // NOI18N
         jLabel14.setForeground(new java.awt.Color(234, 8, 120));
         jLabel14.setText("manipulation");
 
@@ -138,7 +138,7 @@ public class homePadge extends javax.swing.JFrame {
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(61, 61, 61)
                         .addComponent(jLabel4)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jLabel14))
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(52, 52, 52)
@@ -194,10 +194,10 @@ public class homePadge extends javax.swing.JFrame {
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                             .addComponent(jLabel2)
                             .addComponent(jLabel3))
-                        .addGap(18, 18, 18)
-                        .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                            .addComponent(jLabel4)
-                            .addComponent(jLabel14)))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel14)
+                            .addComponent(jLabel4)))
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addGap(32, 32, 32)
                         .addComponent(jLabel16)
